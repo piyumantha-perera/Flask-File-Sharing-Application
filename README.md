@@ -18,14 +18,7 @@ This repository contains a simple file-sharing application built using Python an
 
 ## Installation
 
-1. **Clone the Repository:**
-
-   ```sh
-   git clone https://github.com/yourusername/flask-file-sharing-app.git
-   cd flask-file-sharing-app
-   ```
-
-2. **Install Flask:**
+1. **Install Flask:**
 
    ```sh
    pip install Flask
